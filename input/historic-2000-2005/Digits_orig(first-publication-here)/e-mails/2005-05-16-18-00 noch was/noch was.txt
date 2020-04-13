@@ -1,0 +1,32 @@
+Von: Christian Schoebel [scoe@brg19.at]
+Gesendet: Montag, 16. Mai 2005 18:00
+An: Valentin Christoph
+Betreff: noch was
+
+
+
+http://xml.coverpages.org/xmlPapers200305.html
+
+[May 30, 2003] "Mappers Write Cookbook 1.0 for Web Services." By Susan M. 
+Menke. In Government Computer News (May 30, 2003). "The Open GIS 
+Consortium Inc. has put together a batch of not-yet time-tested recipes in 
+Cookbook 1.0, the first in a planned series about Web map services. The 
+Wayland, Mass., consortium's Web Map Service interface specification makes 
+a browser overlay -- a maplike raster-graphic image -- of multiple data 
+layers from one or more distributed geographic information systems. The 
+recipes tell users how to insert a WMS client into various commercial and 
+open-source products such as ESRI ArcExplorer and ArcIMS, FreeBSD, 
+Intergraph GeoMedia WebMap, Java deegree, Microsoft Internet Information 
+Server and University of Minnesota MapServer. A WMS client can be an HTML 
+page returned by a WMS server or a browser plug-in using Java or ActiveX 
+to connect to different servers. The client can specify which layers to 
+display from a specified geographic area, the file formats and the degree 
+of transparency..." See details in the news story "OpenGIS Consortium 
+Publishes Web Map Server Cookbook." General references in "Geography 
+Markup Language (GML)."
+
+
+http://www.gcn.com/vol1_no1/daily-updates/22281-1.html
+
+http://xml.coverpages.org/ni2003-05-30-b.html
+

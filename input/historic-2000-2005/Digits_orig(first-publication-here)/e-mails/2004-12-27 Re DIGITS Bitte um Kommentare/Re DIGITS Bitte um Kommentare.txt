@@ -1,0 +1,90 @@
+Von: Christian Schoebel [chr@orange.kiwi.at]
+Gesendet: Montag, 27. Dezember 2004 19:41
+An: Valentin Christoph
+Betreff: Re: DIGITS: Bitte um Kommentare
+
+On Mon, 27 Dec 2004, Valentin Christoph wrote:
+
+> Hallo Christian
+> 
+> Da ich mir die Ergebnisse unseres Gesprächs vom 25.12. gerne aufheben würde,
+> habe ich mir erlaubt, sie in einer Word-Datei zusammenzufassen.
+> 
+> Falls ich darin irgendetwas falsch beschrieben habe, oder Du sonst noch
+> Anmerkungen hast, würde ich Dich bitten, mir diese Korrekturen bis Ende
+> Jänner zukommen zu lassen.
+> 
+> Danke
+> Christoph
+> 
+> 
+
+Bin mit fast allem einverstanden. Ein wichtiger Punkt: Du schreibst:
+
+Beschreibung Christian.s Idee: in jedem 3D-Game werden nur die 
+nahegelegenen Objekte wirklich 3-dimensional berechnet. Weiter entfernte 
+Objekte werden gemeinsam in einer Textur zusammengefasst, die dann als 
+.Landscape. eingeblendet wird. ....
+
+Mein Kommentar dazu:
+Es stimmt nicht, daß ALLE 3D Games diese 2D Texturen von weit entfernten
+Objekten berechnen. die meist gewählte lösung (für flugsimulatoren)
+ist level of detail. wenig pixel gerechnet, weil das zeug, welches
+weit weg ist, eh keinen großen beitrag liefert. die lösung mit der
+textur ist meist statischer natur, d.h. schon beim bau des levels werden
+objekte, die ich sowieso nie erreichen kann, schon in eine 2d textur
+gepappt - von diesen objekten gibt es demnach gar keine 3d repräsentation.
+
+da aber bei so einem wie von Dir geplanten system aber rein theoretisch
+ALLES erreichbar ist (sei es mit hubschrauber oder sonstwas), müssen wir
+von allen objekten die 3d repräsentation haben. für weit weg gelegene
+objekte empfiehlt sich aber, unter ausnutzung der hierarchie, das
+berechnen von 2d-textures.
+
+dieser letzte absatz (DIESER DA OBEN) ist eigentlich mein hauptanliegen
+bei der ganzen sache. meiner meinung nach sogar UNABDINGBAR!!!!!
+
+erklärung:
+laden wir zunächsten Deine idee in unsere köpfe. dann müßte der DIGITS
+client WISSEN, WELCHE OBJEKTE ER ALLE BRAUCHT!!!!!!! DAS KANN ER ABER
+NICHT!!!! daher muss er SOWIESO den hierarchischen übergeordneten fragen.
+und jetzt kommt der zweite punkt: antwort vom server: du siehst 10 mia. 
+objekte, weil du halt auf der aussichtsterrasse am kahlenberg stehst! und
+dort stirbt das ganze: unmöglich!! unmöglich, das ganze runterzuladen,
+(tonnen von GIGABYTE), um das ganze DANN ERST WIEDER RUNTERZURECHNEN
+(jeder client muß denselben scheiss rechnen, das netz wird unnötig
+überlastet (mehrfachüberlastet!!!!!!!!)) -> UNMÖGLICH!!! viel zu viel
+LAST, die für den ARSCH ist (weil wie gesagt dann lokal sowieso
+runtergerechnet werden muss....)
+
+und ich nehme doch an, dass du den DIGITS dienst nicht nur einem
+menschen mit einer 10 Pbps Internetanbindung und einem Cluster
+mit 1024 Pentium IV 2 GHz Prozessoren zur verfügung stellen willst,
+sondern möglichst vielen kunden (punkt der wirtschaftlichkeit und
+nutzbarkeit)
+
+noch was: beim DNS
+
+für root server einträge gilt derzeit eine TTL von cirka 42 tagen
+(genau 3600000 sekunden)
+
+prinzipiell kann man jeden DNS server per konfiguration
+einstellen, ob er rekursive anfragen beantwortet oder nicht.
+hängt aber natürlich von der software ab.
+
+habe mir jetzt mit hilfe von nslookup nochmals genau angesehen.
+das verhalten ist, wie ich es Dir beschrieben habe. d.h. zum
+beispiel habe ich den root-server (den root server A) nach
+aon.at. gefragt, und er hat mir nur geantwortet, welcher dns
+für at. zuständig ist.
+
+verwende nur bitte in Deinen Dokumenten die Adresse www.aon.at
+statt www.brg19.at.
+
+fürs erste fällt mir sonst nichts mehr ein. ich werde mir Dein
+dokument aber nochmals durchlesen und dir dann nochmals schreiben.
+
+lg
+christian.
+
+

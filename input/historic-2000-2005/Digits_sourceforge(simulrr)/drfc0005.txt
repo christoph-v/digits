@@ -1,0 +1,30 @@
+
+Die Frage: WAS wollen WIR WEM verkaufen?
+
+Version vom 12.06.2005., Autor: C.Valentin
+
+History:
+- Siemens hat die Erfindungsmeldung DIGITS freigegeben.
+  WIR ist also jetzt nicht Siemens, sondern "WIR DIGITS
+  Fan-Gemeinde".
+
+
+Kapitel 1 potentielle Interessenten
+
+- Verkehrsbetriebe (3D-Wegefindung beim Umsteigen/am Ziel)
+- Tourismus (3D-Wegefindung und Werbung)
+- Alpenverein (3D-Tourenplanung)
+- Kartenverlage als potentielle DIGITS-Betreiber
+- Suchmaschinen - Betreiber für die "geographische Suchmaschine"
+- Architekten und Stadtplaner könnten Synergien nutzen bei der 
+  Präsentation ihrer Projekte (alle greifen auf die gleichen
+  Basisdaten zu)
+- Netzbetreiber als Nutznießer (Traffic!)
+- Städte und ihre Gewerbebetriebe (Lokale, Museen, Ausstellungen,
+  Konzerte,.....) für die "geographische Suchmaschine"
+- Geodäten ganz allgemein (sowohl in Forschung als in der Durchführung)
+  könnten sich für diese Ideen begeistern (3D Abbild der gesamten Welt)
+
+Kapitel 2 WAS wollen wir WEM verkaufen?
+- Nachdem das "WIR" mittlerweile mutiert ist, stellt sich diese
+  Frage ernsthaft.

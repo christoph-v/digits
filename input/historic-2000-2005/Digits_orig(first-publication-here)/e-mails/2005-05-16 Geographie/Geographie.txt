@@ -1,0 +1,50 @@
+Von: Christian Schoebel [scoe@brg19.at]
+Gesendet: Montag, 16. Mai 2005 17:50
+An: Valentin Christoph
+Betreff: Geographie
+
+Hallo Christoph!
+
+Leider konnte ich bisher nicht genau das finden, was mir damals
+aufgefallen ist.
+
+Ich glaube zu wissen, dass ich es damals gefunden habe, als ich
+etwas für meine Diplomarbeit gesucht habe.
+
+Ich hab sicher nach einem dieser drei Begriffe gesucht und
+bin dann auf irgendetwas wie "distributed geographic ..."
+gestossen:
+
+ethernet broadcast
+ack implosion
+
+Ich hab jetzt probeweise versucht, im google danach zu suchen,
+aber das war erfolglos.
+
+Wenn Du aber nach "distributed geographic information" im google
+suchst, hier ein paar ergebnisse: (ich glaub aber, dass das alles
+2D-geschichten sind...aber vielleicht kann man ja das eine oder
+andere brauchen)
+
+
+Peng, Z. and Tsou, M. (2003). Internet GIS: Distributed Geographic 
+Information Services for the Internet and Wireless Networks. New Jersey: 
+John Wiley & Sons.
+
+
+http://en.itek.norut.no/layout/set/print/content/download/206745/498900/file/ANNUAL%20REPORT%202003%201-0.pdf
+
+http://www.lic.wisc.edu/pubs/MPLISbib.htm
+
+http://epubl.luth.se/1402-1757/2000/52/LTU-LIC-0052-SE.pdf
+
+Übrigens: hab gerade eben auch "meine Diplomarbeit" gefunden; kurzum,
+jemand anderer hat genau dasselbe Thema wie ich auch schon behandelt.
+Mein Thema ist ja "reliable multicast", d.h. da gibt es eigentlich
+schon protokolle wie sand am meer. ich hab aber ein kleines
+detail, welches - so glaube ich - noch niemand verwendet hat.
+außerdem wirds mir hoffentlich spass machen, und nebenbei schaut
+das diplom heraus. das wäre fein...
+
+lg
+christian

@@ -1,0 +1,16 @@
+Meinung:
+
+Prinzipiell sollte jeder das Recht haben, einen DIGITS root server
+zu betreiben.
+
+Das Internet ist ja dazu da, um
+a) mit anderen Menschen zu kommunizieren
+b) mit Maschinen zu kommunizieren
+c) seine Sicht der Welt darzustellen
+d) Maschinen-Maschinen Kommunikation zu ermöglichen
+
+DIGITS fällt unter die Kategorie (c). Jeder, der einen
+DIGITS root server betreut, ist aber für "seine" Sicht(en)
+der Welt verantwortlich (auch für die der untergeordneten
+DIGITS Server).
+

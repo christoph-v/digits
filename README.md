@@ -8,7 +8,7 @@ This repository will host all data for the DIGITS project.
 The idea DIGITS goes back to the autumn of year 2000, when I
 contemplated the function of the F-117A.
 
-## 1.1. Phase 0
+## 1.1. Phase 0 - ongoing
 
 Waiting for the narrative "Das dritte Kind".
 

@@ -1,0 +1,24 @@
+
+Autor: C.Valentin
+
+Version vom 12.06.2005
+
+Frage: Kontrolle der Inhalte der DIGITS-Server nötig?
+
+- Straßennamen einblenden, sodaß man diese während der Fahrt
+  in einer fremden Stadt erkennen kann.
+
+  Frage: kann das was mit DIGITS zu tun haben, ist das nicht eher
+  ein Thema der "augmented reality" und nicht der "virtual reality"?
+
+  Das ist das alte Problem mit den Straßenschildern im Falle eines
+  Einmarsches durch feindliche Truppen.
+
+  Militärisches/Sicherheitspolitisches Problem von DIGITS:
+   Der Feind (entweder anderes Land oder Terroristen)
+   dürfen den Weg und das Ziel nicht allzu schnell finden
+   (Der Weg kann leider auch ein Luftweg sein, wenn man an
+   unbemannte programmierbare Flugzeuge denkt).
+
+  Es muß also jemanden (so etwas wie "Lawful Interception") geben,
+  der die Inhalte der DIGITS Server kontrolliert.
