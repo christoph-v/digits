@@ -12,21 +12,6 @@ späteren Version, wenn/falls wir die Geschichte auf eine breitere Basis stellen
 um damit berühmt zu werden, wird die Rahmenhandlung also wieder gelöscht werden.
 
 
-ANMERKUNG AM 29. August 2020
-============================
-Bisher war der "Kern der Easter Eggs", dass Walter sowohl der Vater der Kinder
-Monikas ist (was bedeutet, dass ICH die Erfindungsmeldungen Car Finder und LISL
-bei Siemens abgegeben habe) als auch der Ehemann Veronikas - das sind dann die
-"echten" Kinder Christine und Florian mit Verena.
-
-Dieses Setup koennen wir nicht durchhalten, da sich herausgestellt hat, dass
-der Erfinder immer die "Mutter" der Erfindung ist, wahrend die Firma den "Vater"
-darstellt.
-
-Jetzt muesste also ein "Stueck von mir" sowohl in Monika als auch in Veronika
-stecken und Walter waere "eine Firma an sich" bzw. "die Wirtschaft", haette aber
-auch "viel von mir geerbt".
-
 FARBENLEHRE
 ===========
 
@@ -129,6 +114,7 @@ TECHNISCH, POLITISCH---
 
 - Autobiographisch:
     - Walter hat viele Eigenschaften von mir geerbt
+    - Monika ist Siemens (beim Schlafen auf die Uhr schauen (GPS), Diamanten)
 
 
 II DAS DRITTE KIND - FREUNDSCHAFT
@@ -202,6 +188,7 @@ TECHNISCH, POLITISCH---
 - Bedeutung der Blöcke nimmt ab (Fall des eisernen Vorhangs)  
 
 - Autobiographisch: 
+    - Bedeutung von Monika nimmt ab (Siemens)
     - Würfelbecher hat seinen Meister gefunden (ich bin auch der Teufel)
     - Walter muss sich neue Firma suchen -> gelb/orange (Kapsch)
 
@@ -269,7 +256,7 @@ Zeitraeume:
 C.P. sucht Geodaten "für eine Gebirgsstrecke" -> findet Otto  -> hier ist also
 C.P. ein "Werkzeug Gottes", weil er Lieserl und Otto zusammenbringt
 
-Das Duell Otto / C.P. ist eine VR-Anwendung -> Autorennen!
+Das Duell Otto / C.P. ist eine VR-Anwendung - welche?
 
 Wie kann C.P. Otto "helfen"? - MU-Szenen sind interessanter als SU-Szenen
 
@@ -285,11 +272,11 @@ aus, dass ein "Wunsch Kinder kriegt" und diese Kinder dann aber nicht nur diesen
 einen Wunsch "bedienen", sondern mehrere "Use Cases" (wenn man sie "tiefer
 gelegt" hat)
 
-Dass Otto (also DIGITS) "das dritte Kind Veronikas" (also mein drittes Kind)
-sei, ist einfach die Sichtweise Veronikas, die mit der Wirklichkeit aber auch
-gar nichts zu tun hat. Einzig und allein eine zeitliche Koinzidenz führte dazu,
-dass Veronika das glaubte. Insoferne ist die gesamte Trilogie "aus der Sicht
-Veronikas" geschrieben, beschreibt aber eine allgemeinere Wirklichkeit, die es
+Dass Otto (also DIGITS) "das dritte Kind Walters" (also mein drittes Kind) sei,
+ist einfach die Sichtweise Walters, die mit der Wirklichkeit aber auch gar
+nichts zu tun hat. Einzig und allein eine zeitliche Koinzidenz führte dazu,
+dass Walter das glaubte. Insoferne ist die gesamte Trilogie "aus der Sicht
+Walters" geschrieben, beschreibt aber eine allgemeinere Wirklichkeit, die es
 "dort draussen" tatsächlich gibt.
 
 "Wenn Du die Daten den 'Superreichen' klaust und sie dann an den Bestbietenden
@@ -312,7 +299,7 @@ aussieht wie zwei Maxln, die ein Paket tragen (rot und türkis):
      Pflatsch von Christine zu tun? Und dem rosa Faden ("es ist auch etwas
      Rotes drin") "Die Liebe der Kinder haelt alles zusammen"
 
-Ueberbleibsel von I+II
+_berbleibsel von I+II
      - C.P. ist nun Dual Use (er wird von Walter adoptiert)
      - Walter ist jetzt in Pension (wirklich???)
      - Die Kinder sind jetzt aus dem Haus (ausser Lieserl, die studiert noch)
