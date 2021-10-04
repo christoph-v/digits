@@ -322,6 +322,18 @@ Ueberbleibsel von I+II
 Neu in III
      - DDK steht fuer "DIGITS" und seinen Wandel von Google Earth zu Open Source
      - DDK ist von Anfang an "Dual Use"
+     - Das Ende auf dem Friedhof:
+        - frueher hatte ich unterschieden zwischen Plan A (die Helden wollen
+          in bayrischer Erde begraben werden) und Plan B (die Helden wollen,
+          dass ihre Asche in alle Winde zerstreut wird)
+        - nun habe ich ALP auf github.com veroeffentlicht (auch DIGITS), d.h.
+          die beiden Helden wollen definitiv, dass ihre Asche in alle Winde
+          zerstreut wird
+        - aber das .pdf mit ALP kann von github.com nicht dargestellt werden
+        - ===> der Friedhofsbeamte, der die Asche "in alle Winde zerstreuen
+               soll", stolpert ueber einen Haufen von Radnaben verschiedener
+               Versionen und die Asche faellt auf den Erdberg eines frischen
+               Grabes ----> nach 5 Jahren blueht dort ein ??????????
 
 
 Roman

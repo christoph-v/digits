@@ -312,7 +312,18 @@ Remnants of I + II
 New in III
      - DDK stands for "DIGITS" and its change from Google Earth to Open Source
      - DDK is "Dual Use" from the start
-
+     - The end in the cemetery:
+        - I used to differentiate between Plan A (the heroes want
+          to be buried in Bavarian soil) and Plan B (the heroes want
+          that their ashes will be scattered to the wind)
+        - now I have published ALP on github.com (also DIGITS), i.e.
+          the two heroes definitely want their ashes to be scattered to
+          the wind
+        - but the .pdf with ALP cannot be displayed by github.com
+        - ===> the cemetery official who "should scatter the ashes" to the wind
+               stumbles over a heap of different versions of wheel hubs and the
+               ashes fall on the hill of soil on a fresh one grave
+               ----> after 5 years blooms there ?????????? 
 
 Roman A.
 --------
