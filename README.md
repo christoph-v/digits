@@ -12,8 +12,6 @@ contemplated the function of the F-117A.
 
 Waiting for the narrative "Das dritte Kind".
 
-[Das dritte Kind](https://letztersein.com/drehbuchseite "Das dritte Kind")
-
 ## 1.2. Phase 1
 
 To be defined.
