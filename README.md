@@ -10,7 +10,15 @@ contemplated the function of the F-117A.
 
 ## 1.1. Phase 0 - ongoing
 
-Waiting for the narrative "Das dritte Kind".
+### 1.1.1. Narrative "Das dritte Kind" - done
+
+Narrative "The third Child" released with version 1.7:
+[https://letztersein.com/drehbuchseite](https://letztersein.com/drehbuchseite)
+
+### 1.1.2. S&P-ARK Project - ongoing
+
+The S&P-ARK project is ongoing:
+[https://github.com/christoph-v/spark](https://github.com/christoph-v/spark)
 
 ## 1.2. Phase 1
 
