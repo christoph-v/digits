@@ -13,6 +13,14 @@ Before it was started, the S&P-ARK project had drafted the ALP description
 - ALP - Application Layer Protocol
 - ALPES - ALP, Experimental Setup
 
+The ALPES project has been put "on hold", in the meantime.
+
+However, we have added a page to the Wiki of the S&P-ARK project, where we 
+describe the connection between DIGITS and S&P-ARK:
+[https://github.com/christoph-v/spark/wiki/DIGITS](https://github.com/christoph-v/spark/wiki/DIGITS)
+
+Vienna, 2025-03-02
+
 ## 1. Short Description
 
 This repository will host all data for the DIGITS project (except S&P-ARK).
@@ -27,7 +35,7 @@ contemplated the function of the F-117A.
 Narrative "The third Child" released with version 1.7:
 [https://letztersein.com/drehbuchseite](https://letztersein.com/drehbuchseite)
 
-### 1.1.2. The DIGITS / S&P-ARK / ALPES Project - ongoing
+### 1.1.2. The DIGITS / S&P-ARK / ALPES Project - on hold
 
 The DIGITS / S&P-ARK / ALPES project is ongoing:
 [https://github.com/christoph-v/spark](https://github.com/christoph-v/spark)
