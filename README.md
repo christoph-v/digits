@@ -12,12 +12,13 @@ Before it was started, the S&P-ARK project had drafted the ALP description
 S&P-ARK/ALPES.
 
 - ALP - Application Layer Protocol
-- [S&P-ARK/ALPES](https://github.com/christoph-v/spark) - ALP, Experimental Setup
+- [S&P-ARK/ALPES](https://github.com/christoph-v/spark/tree/master/ALPES) - 
+                 ALP, Experimental Setup
 
 The S&P-ARK/ALPES project is rather a vision, too, currently. It is assumed the
 Experimental Setup of ALP will not be implemented before the year 2030.
 
-However, we have added a page to the Wiki of the S&P-ARK/ALPES project, where we
+However, we have added a page to the Wiki of the S&P-ARK project, where we
 describe the connection between DIGITS and S&P-ARK:
 [https://github.com/christoph-v/spark/wiki/DIGITS](https://github.com/christoph-v/spark/wiki/DIGITS)
 
@@ -40,7 +41,8 @@ Narrative "The third Child" released with version 1.7:
 
 ### 1.1.2. The S&P-ARK / ALPES Project
 
-The [S&P-ARK/ALPES](https://github.com/christoph-v/spark) project is ongoing:
+The [S&P-ARK/ALPES](https://github.com/christoph-v/spark/tree/master/ALPES)
+project is ongoing:
 
 ## 1.2. Phase 1
 
