@@ -14,13 +14,11 @@ S&P-ARK/ALPES.
 - ALP - Application Layer Protocol
 - [S&P-ARK/ALPES](https://github.com/christoph-v/spark) - ALP, Experimental Setup
 
-The [S&P-ARK/ALPES](https://github.com/christoph-v/spark) project is rather a
-vision, too, currently. It is assumed the Experimental Setup of ALP will not be
-implemented before the year 2030.
+The S&P-ARK/ALPES project is rather a vision, too, currently. It is assumed the
+Experimental Setup of ALP will not be implemented before the year 2030.
 
-However, we have added a page to the Wiki of the
-[S&P-ARK/ALPES](https://github.com/christoph-v/spark) project, where we describe
-the connection between DIGITS and S&P-ARK:
+However, we have added a page to the Wiki of the S&P-ARK/ALPES project, where we
+describe the connection between DIGITS and S&P-ARK:
 [https://github.com/christoph-v/spark/wiki/DIGITS](https://github.com/christoph-v/spark/wiki/DIGITS)
 
 Vienna, 2025-03-29
@@ -40,7 +38,7 @@ contemplated the function of the F-117A.
 Narrative "The third Child" released with version 1.7:
 [https://letztersein.com/drehbuchseite](https://letztersein.com/drehbuchseite)
 
-### 1.1.2. The DIGITS / S&P-ARK / ALPES Project
+### 1.1.2. The S&P-ARK / ALPES Project
 
 The [S&P-ARK/ALPES](https://github.com/christoph-v/spark) project is ongoing:
 
